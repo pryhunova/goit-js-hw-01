@@ -1,4 +1,4 @@
-const userPassword = 'jqueryismyjam';
+const userPassword = prompt('Введите пароль');
 
 const ADMIN_PASSWORD = 'jqueryismyjam';
 

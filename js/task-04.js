@@ -1,4 +1,4 @@
-const orderPieces = 10;
+const orderPieces = prompt('Укажите количество дроидов');
 
 const credits = 23580;
 const pricePerDroid = 3000;
